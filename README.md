@@ -53,3 +53,29 @@
 - **PR 링크**: [🔗 Pull Request #01](https://github.com/K-AI-Detect/K-AI-Detect/pull/1)
 
 <br><br>
+
+### 2 주차 활동 (2025-03-17 ~ 2025-03-22)
+
+#### 💡 활동 개요
+
+- 문제점 개요서 작성
+
+- 관련 연구 분석 및 기존 연구의 한계점 조사
+
+- 본 연구의 필요성과 기여할 수 있는 점 제시
+
+#### 🎤 발표 자료
+
+- 발표 자료: [🔗 발표 URL](https://www.youtube.com/watch?v=8DZ7uPcn4BM)
+
+#### 📑 제출 문서
+
+- [📄 문제점 개요서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/17%EC%A1%B0-2%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A0%90%EA%B0%9C%EC%9A%94%EC%84%9C.pdf)
+
+- [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/17%EC%A1%B0_2%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B5%9C%EC%A2%85.pdf)
+
+#### 🔗 GitHub PR & Issue
+
+- **PR 링크**: [🔗 Pull Request #02](https://github.com/K-AI-Detect/K-AI-Detect/pull/2)
+
+<br><br>
