@@ -50,6 +50,6 @@
 
 #### 🔗 GitHub PR & Issue
 
-- **PR 링크**: [🔗 Pull Request](https://github.com/K-AI-Detect/K-AI-Detect/pull/1)
+- **PR 링크**: [🔗 Pull Request #01](https://github.com/K-AI-Detect/K-AI-Detect/pull/1)
 
 <br><br>
