@@ -79,3 +79,27 @@
 - **PR 링크**: [🔗 Pull Request #02](https://github.com/K-AI-Detect/K-AI-Detect/pull/2)
 
 <br><br>
+
+### 3 주차 활동 (2025-03-24 ~ 2025-03-30)
+
+#### 💡 활동 개요
+
+- 브레인스토밍 진행
+
+- 이해당사자와의 인터뷰 & 설문 진행
+
+#### 🎤 발표 자료
+
+- 발표 자료: [🔗 발표 URL](https://www.youtube.com/watch?v=n-7cN54Da70)
+
+#### 📑 제출 문서
+
+- [📄 문제점 개요서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/17%EC%A1%B0-3%EC%A3%BC%EC%B0%A8-%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.pdf)
+
+- [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/17%EC%A1%B0_3%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+
+#### 🔗 GitHub PR & Issue
+
+- **PR 링크**: [🔗 Pull Request #03](https://github.com/K-AI-Detect/K-AI-Detect/pull/3)
+
+<br><br>
