@@ -112,16 +112,16 @@
 
 #### 🎤 발표 자료
 
-- 발표 자료: [🔗 발표 URL](https://www.youtube.com/watch?v=n-7cN54Da70)
+- 발표 자료: [🔗 발표 URL](https://youtu.be/6aP1Gv10gi4)
 
 #### 📑 제출 문서
 
-- [📄 문제 정의서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_04/17%EC%A1%B0-4%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A0%95%EC%9D%98%EC%84%9C.docx)
+- [📄 문제 정의서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_04/17%EC%A1%B0-4%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
 - [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_04/17%EC%A1%B0_4%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 #### 🔗 GitHub PR & Issue
 
-- **PR 링크**: [🔗 Pull Request #04](https://github.com/K-AI-Detect/K-AI-Detect/pull/5)
+- **PR 링크**: [🔗 Pull Request #05](https://github.com/K-AI-Detect/K-AI-Detect/pull/5)
 
 <br><br>
