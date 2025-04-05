@@ -122,6 +122,6 @@
 
 #### 🔗 GitHub PR & Issue
 
-- **PR 링크**: [🔗 Pull Request #03](https://github.com/K-AI-Detect/K-AI-Detect/pull/3](https://github.com/K-AI-Detect/K-AI-Detect/pull/5)
+- **PR 링크**: [🔗 Pull Request #03](https://github.com/K-AI-Detect/K-AI-Detect/pull/5)
 
 <br><br>
