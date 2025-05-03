@@ -4,4 +4,4 @@ Week2 : https://www.youtube.com/watch?v=8DZ7uPcn4BM <br/>
 Week3 : https://youtu.be/n-7cN54Da70 <br/>
 Week4: https://youtu.be/6aP1Gv10gi4 <br>
 Week5: https://youtu.be/KsJ9CyeXbUs <br>
-Week78 : https://youtu.be/P5hbCmkHvFM <br>
+Wekk7-8 : https://youtu.be/P5hbCmkHvFM <br>
