@@ -94,9 +94,9 @@
 
 #### 📑 제출 문서
 
-- [📄 문제점 개요서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/17%EC%A1%B0-3%EC%A3%BC%EC%B0%A8-%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.pdf)
+- [📄 브레인스토밍](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_03/17%EC%A1%B0-3%EC%A3%BC%EC%B0%A8-%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.pdf)
 
-- [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/17%EC%A1%B0_3%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_03/17%EC%A1%B0_3%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 #### 🔗 GitHub PR & Issue
 
@@ -138,12 +138,34 @@
 
 #### 📑 제출 문서
 
-- [📄 문제 정의서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_05-06/17%EC%A1%B0-5%EC%A3%BC%EC%B0%A8-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.pdf)
+- [📄 유스케이스 다이어그램](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_05-06/17%EC%A1%B0-5%EC%A3%BC%EC%B0%A8-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.pdf)
 
 - [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_05-06/17%EC%A1%B0_5%EC%A3%BC%EC%B0%A8_%ED%95%9C%EA%B5%AD%EC%96%B4_%EA%B8%B0%EB%B0%98_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%83%9D%EC%84%B1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%ED%83%90%EC%A7%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 #### 🔗 GitHub PR & Issue
 
 - **PR 링크**: [🔗 Pull Request #06](https://github.com/K-AI-Detect/K-AI-Detect/pull/6)
+
+<br><br>
+
+### 7~8 주차 활동 (2025-04-21 ~ 2025-05-03)
+
+#### 💡 활동 개요
+
+- 시퀀스다이어그램 작성
+
+#### 🎤 발표 자료
+
+- 발표 자료: [🔗 발표 URL](https://www.youtube.com/watch?v=P5hbCmkHvFM)
+
+#### 📑 제출 문서
+
+- [📄 시퀀스다이어그램]()
+
+- [📢 발표 자료]()
+
+#### 🔗 GitHub PR & Issue
+
+- **PR 링크**: [🔗 Pull Request #07]()
 
 <br><br>
