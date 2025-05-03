@@ -160,12 +160,12 @@
 
 #### 📑 제출 문서
 
-- [📄 시퀀스다이어그램]()
+- [📄 시퀀스다이어그램](https://github.com/K-AI-Detect/K-AI-Detect/blob/week07_08-branch/docs/week_07_08/17%EC%A1%B0-7%2C8%EC%A3%BC%EC%B0%A8-%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.pdf)
 
-- [📢 발표 자료]()
+- [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/week07_08-branch/docs/week_07_08/17%EC%A1%B0_8%EC%A3%BC%EC%B0%A8_%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%83%9D%EC%84%B1-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%83%90%EC%A7%80_%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.pdf)
 
 #### 🔗 GitHub PR & Issue
 
-- **PR 링크**: [🔗 Pull Request #07]()
+- **PR 링크**: [🔗 Pull Request #07](https://github.com/K-AI-Detect/K-AI-Detect/pull/7)
 
 <br><br>
