@@ -169,3 +169,25 @@
 - **PR 링크**: [🔗 Pull Request #07](https://github.com/K-AI-Detect/K-AI-Detect/pull/7)
 
 <br><br>
+
+### 11 주차 활동 (2025-05-12 ~ 2025-05-17)
+
+#### 💡 활동 개요
+
+- 테스트 계획서 작성
+
+#### 🎤 발표 자료
+
+- 발표 자료: [🔗 발표 URL](https://www.youtube.com/watch?v=ZO73A7XyMFs)
+
+#### 📑 제출 문서
+
+- [📄 테스트 계획서](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_11/17%EC%A1%B0-11%EC%A3%BC%EC%B0%A8-%ED%95%9C%EA%B5%AD%EC%96%B4%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%83%9D%EC%84%B1%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%83%90%EC%A7%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
+
+- [📢 발표 자료](https://github.com/K-AI-Detect/K-AI-Detect/blob/main/docs/week_11/17%EC%A1%B0_8%EC%A3%BC%EC%B0%A8_%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%83%9D%EC%84%B1-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%83%90%EC%A7%80%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
+
+#### 🔗 GitHub PR & Issue
+
+- **PR 링크**: [🔗 Pull Request #08](https://github.com/K-AI-Detect/K-AI-Detect/pull/8)
+
+<br><br>
