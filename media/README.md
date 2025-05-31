@@ -6,3 +6,4 @@ Week4: https://youtu.be/6aP1Gv10gi4 <br>
 Week5: https://youtu.be/KsJ9CyeXbUs <br>
 Week7-8 : https://youtu.be/P5hbCmkHvFM <br>
 Week11 : https://youtu.be/ZO73A7XyMFs <br>
+Week12 : https://youtu.be/8DVJVLZT4-A <br>
